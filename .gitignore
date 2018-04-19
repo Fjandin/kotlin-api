@@ -1,0 +1,15 @@
+.DS_Store
+target/
+.idea/
+*.iml
+*.versionsBackup
+application.properties
+!**/test/resources/application.properties
+.gradle/
+classes/
+out/
+build/
+.settings
+bin/
+.classpath
+.project
